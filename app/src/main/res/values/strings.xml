@@ -1,0 +1,10 @@
+<resources>
+    <!--MainActivity-->
+    <string name="app_name">LayoutApplication</string>
+    <string name="linear_layout">Checkout LinearLayout!</string>
+
+    <!--LinearLayoutActivity-->
+    <string name="title_activity_linear_layout">LinearLayoutActivity</string>
+    <string name="linear_layout_edit_text">I\'m an EditText</string>
+    <string name="linear_layout_btn">I\'m a button</string>
+</resources>
