@@ -5,6 +5,7 @@
 
     <!--LinearLayoutActivity-->
     <string name="title_activity_linear_layout">LinearLayoutActivity</string>
+    <string name="title_activity_frame_layout">FrameLayoutActivity</string>
     <string name="linear_layout_edit_text">I\'m an EditText</string>
     <string name="linear_layout_btn">I\'m a button</string>
 </resources>

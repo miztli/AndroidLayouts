@@ -17,4 +17,9 @@ public class MainActivity extends AppCompatActivity {
         Intent intent = new Intent(this, LinearLayoutActivity.class);
         startActivity(intent);
     }
+
+    public void startFrameLayoutActivity(View view){
+        Intent intent = new Intent(this, FrameLayoutActivity.class);
+        startActivity(intent);
+    }
 }
